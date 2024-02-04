@@ -1,4 +1,5 @@
 package ser;
+
 public class ATM {
     private BankAccount userAccount;
 
